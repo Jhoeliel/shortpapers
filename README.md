@@ -1,1 +1,1 @@
-# shortpapers
+# Short papers
